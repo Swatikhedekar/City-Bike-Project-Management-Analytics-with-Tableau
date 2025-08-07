@@ -1,8 +1,8 @@
 # City-Bike-Project-Management-Analytics-with-Tableau
-Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the Citi Bike Data webpage. 
+Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the City Bike Data webpage. 
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have a number of questions on the program, so your first task on the job is to build a set of data reports to provide the answers.
 ## Task
-Our task in this project is to aggregate the data found in the City Bike trip History Logs to builda dashboard, story or report. You may work with a timespam of your choosing. Optionally, you may merge multiple datasets from different periods. The folloowing are the quetions you may wish to tackle, especially if you are working with merged dataset. Do not limit yourself to these questions;
+Our task in this project is to aggregate the data found in the City Bike trip History Logs to build a dashboard, story or report. You may work with a timespam of your choosing. Optionally, you may merge multiple datasets from different periods. The folloowing are the quetions you may wish to tackle, especially if you are working with merged dataset. Do not limit yourself to these questions;
 ## Task need to do achieved:
 * Acquire data, dump the data into some of the datasers(SQL, MongoDB, casendra local or cloud version)
 *	Connect with the business users and try to get the understanding the data attribute.
@@ -13,7 +13,7 @@ Our task in this project is to aggregate the data found in the City Bike trip Hi
 *	Start building production-based dashboaed.
 *	Below are the KPI which need to captured.
   
-1.	How many trips have been recorded total during the chosen period?
+1.	How many trips have been recorded total during the choosen period?
 2.	By what percentage has total ridership grown?
 3.	How was the proportion of short-term customers and annual subscribers changed?
 4.	What are the pick hours in which bikes are used during summer month?
