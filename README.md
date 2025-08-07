@@ -15,9 +15,9 @@ Our task in this project is to aggregate the data found in the City Bike trip Hi
   
 1.	How many trips have been recorded total during the chosen period?
 2.	By what percentage has total ridership grown?
-3.	How ha the proportion of short-term customers and annual subscribers changed?
-4.	What are the pick hours in which bikes are used dusring summer month?
-5.	What are the pick hours in which bikes are used dusring winter month?
+3.	How was the proportion of short-term customers and annual subscribers changed?
+4.	What are the pick hours in which bikes are used during summer month?
+5.	What are the pick hours in which bikes are used during winter month?
 6.	Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
 7.	Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)
 8.	Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
